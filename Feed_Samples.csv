@@ -1,0 +1,33 @@
+Note: Routine field grab samples from C3 splitter feed line FT-201. Field GC not calibrated against lab standard; see Design Basis for calibrated feed composition.
+Sample_ID,Date,Shift,Propylene_mol%,Propane_mol%,Ethane_mol%,Method,Analyst
+FS-001,2024-03-01,Day,81.33,18.57,0.10,GC field grab sample,S. Haddad
+FS-002,2024-03-01,Swing,80.82,19.07,0.11,GC field grab sample,R. Okonkwo
+FS-003,2024-03-01,Night,81.38,18.43,0.19,GC field grab sample,R. Okonkwo
+FS-004,2024-03-02,Day,81.27,18.63,0.10,GC field grab sample,R. Okonkwo
+FS-005,2024-03-02,Swing,80.78,19.07,0.15,GC field grab sample,R. Okonkwo
+FS-006,2024-03-02,Night,81.23,18.60,0.17,GC field grab sample,T. Nyström
+FS-007,2024-03-03,Day,80.79,19.05,0.16,GC field grab sample,R. Okonkwo
+FS-008,2024-03-03,Swing,81.49,18.39,0.12,GC field grab sample,T. Nyström
+FS-009,2024-03-03,Night,80.94,18.94,0.12,GC field grab sample,S. Haddad
+FS-010,2024-03-04,Day,80.63,19.23,0.14,GC field grab sample,S. Haddad
+FS-011,2024-03-04,Swing,81.60,18.24,0.16,GC field grab sample,R. Okonkwo
+FS-012,2024-03-04,Night,81.45,18.40,0.15,GC field grab sample,T. Nyström
+FS-013,2024-03-05,Day,80.60,19.27,0.13,GC field grab sample,S. Haddad
+FS-014,2024-03-05,Swing,81.25,18.58,0.17,GC field grab sample,R. Okonkwo
+FS-015,2024-03-05,Night,81.36,18.46,0.18,GC field grab sample,R. Okonkwo
+FS-016,2024-03-06,Day,81.61,18.20,0.19,GC field grab sample,T. Nyström
+FS-017,2024-03-06,Swing,80.86,18.98,0.16,GC field grab sample,S. Haddad
+FS-018,2024-03-06,Night,80.71,19.15,0.14,GC field grab sample,S. Haddad
+FS-MAN,2024-03-07,—,85.00,14.84,0.16,"Manual entry (shift summary, unverified)",
+FS-019,2024-03-07,Day,81.41,18.42,0.17,GC field grab sample,R. Okonkwo
+FS-020,2024-03-07,Swing,81.29,18.59,0.12,GC field grab sample,L. Marchetti
+FS-021,2024-03-07,Night,80.71,19.15,0.14,GC field grab sample,L. Marchetti
+FS-022,2024-03-08,Day,81.39,18.43,0.18,GC field grab sample,R. Okonkwo
+FS-023,2024-03-08,Swing,80.80,19.10,0.10,GC field grab sample,S. Haddad
+FS-024,2024-03-08,Night,81.02,18.87,0.11,GC field grab sample,S. Haddad
+FS-025,2024-03-09,Day,80.78,19.07,0.15,GC field grab sample,T. Nyström
+FS-026,2024-03-09,Swing,80.69,19.20,0.11,GC field grab sample,S. Haddad
+FS-027,2024-03-09,Night,81.47,18.39,0.14,GC field grab sample,T. Nyström
+FS-028,2024-03-10,Day,80.97,18.83,0.20,GC field grab sample,L. Marchetti
+FS-029,2024-03-10,Swing,81.16,18.73,0.11,GC field grab sample,R. Okonkwo
+FS-030,2024-03-10,Night,81.62,18.26,0.12,GC field grab sample,L. Marchetti
